@@ -20,7 +20,7 @@
 
 ### Theme
 
-##### LoveIt
+#### LoveIt
 
 * folder
   * 保持博客文章存放在 `content/posts` 目录，例如： `content/posts/我的第一篇文章.md`
