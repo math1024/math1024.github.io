@@ -37,7 +37,11 @@
   * 如果文章前置参数中有摘要变量, 那么将以该值作为摘要.
   * 按照自动摘要拆分方法.
 
-### Template
+### Auto Deploy
+
+#### Caddy
+
+* install:  yum install caddy -y
 
 
 

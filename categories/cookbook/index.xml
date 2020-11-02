@@ -1,9 +1,23 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Cookbook - 分类 - Code&amp;Life</title>
+        <title>CookBook - 分类 - Code&amp;Life</title>
         <link>http://example.org/categories/cookbook/</link>
-        <description>Cookbook - 分类 - Code&amp;Life</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 27 Oct 2020 15:46:23 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/cookbook/" rel="self" type="application/rss+xml" /><item>
+        <description>CookBook - 分类 - Code&amp;Life</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 30 Oct 2020 16:05:56 &#43;0800</lastBuildDate><atom:link href="http://example.org/categories/cookbook/" rel="self" type="application/rss+xml" /><item>
+    <title>Math Formula Example</title>
+    <link>http://example.org/math_formula/</link>
+    <pubDate>Fri, 30 Oct 2020 16:05:56 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/math_formula/</guid>
+    <description><![CDATA[数学公式示例]]></description>
+</item><item>
+    <title>git实例</title>
+    <link>http://example.org/git_note/</link>
+    <pubDate>Thu, 29 Oct 2020 14:47:59 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/git_note/</guid>
+    <description><![CDATA[<p>git 命令使用实例</p>]]></description>
+</item><item>
     <title>Guide</title>
     <link>http://example.org/guide/</link>
     <pubDate>Tue, 27 Oct 2020 15:46:23 &#43;0800</pubDate>
