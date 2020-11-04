@@ -5,8 +5,6 @@
 
 <!--more-->
 
-#### 阅读笔记
-
 #### 看过
 
 
@@ -14,9 +12,8 @@
 #### 想看
 
 * 《好爸爸不缺席》 得到App
-
 * 《异见时刻》金斯伯格传记  得到App
-
 * 《杀死一只知更鸟》 得到App
 * 《幸福的方法》 也大公众号
 * 《掌控》来源：也大公众号
+* [Smart-Gets-Things-Done-Technical](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/) 
