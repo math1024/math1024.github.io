@@ -3,7 +3,14 @@
         <title>所有文章 - Code&amp;Life</title>
         <link>http://example.org/posts/</link>
         <description>所有文章 | Code&amp;Life</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 02 Nov 2020 17:01:05 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 03 Nov 2020 09:02:12 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Neural NetWork</title>
+    <link>http://example.org/neural-network/</link>
+    <pubDate>Tue, 03 Nov 2020 09:02:12 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/neural-network/</guid>
+    <description><![CDATA[入门 神经网络快速入门]]></description>
+</item><item>
     <title>2020 Book </title>
     <link>http://example.org/book_2020/</link>
     <pubDate>Mon, 02 Nov 2020 17:01:05 &#43;0800</pubDate>

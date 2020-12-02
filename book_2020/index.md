@@ -15,7 +15,7 @@
 * 《好爸爸不缺席》 
 * 《异见时刻》金斯伯格传记  美国大法官
 * 《杀死一只知更鸟》 
-* 《幸福的方法》 
+* 《幸福的方法》ing...
 * 《掌控》
 * [Smart-Gets-Things-Done-Technical](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/) 
 * 《傅雷家书》
