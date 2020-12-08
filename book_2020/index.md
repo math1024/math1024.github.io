@@ -19,6 +19,7 @@
 * 《掌控》
 * [Smart-Gets-Things-Done-Technical](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385/) 
 * 《傅雷家书》
+* 《穿越非洲两百年》
 
 ##### 投资
 
